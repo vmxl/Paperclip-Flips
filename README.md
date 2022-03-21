@@ -1,3 +1,5 @@
+# Disclaimer: This mod is not done
+
 # Paperclip-Flips
 - Paperclip Flips is the newest, fastest flipping mod. 
 - /paperclip command
