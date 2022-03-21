@@ -2,7 +2,7 @@
 // Decompiled by Procyon v0.5.36
 // 
 
-package me.paperclip.dizzyflipper;
+package me.paperclip.paperclip.flipper;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
