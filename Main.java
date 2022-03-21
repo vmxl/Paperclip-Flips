@@ -1,23 +1,19 @@
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
-package me.paperclip.dizzyflipper;
+package me.paperclip.paperclipflipper;
 
 import java.util.LinkedList;
 import java.util.HashMap;
-import me.dizzy.dizzyflipper.commands.subcommands.Token;
-import me.dizzy.dizzyflipper.commands.subcommands.Help;
-import me.dizzy.dizzyflipper.commands.subcommands.Toggle;
-import me.dizzy.dizzyflipper.commands.subcommands.Subcommand;
-import me.dizzy.dizzyflipper.websocket.Client;
+import me.paperclip.paperclipflipper.commands.subcommands.Token;
+import me.paperclip.paperclipflipper.commands.subcommands.Help;
+import me.paperclip.paperclipflipper.commands.subcommands.Toggle;
+import me.paperclip.paperclipflipper.commands.subcommands.Subcommand;
+import me.paperclip.paperclipflipper.websocket.Client;
 import java.io.IOException;
-import me.dizzy.dizzyflipper.utils.Utils;
-import me.dizzy.dizzyflipper.utils.ApiHandler;
-import me.dizzy.dizzyflipper.events.OnChatReceived;
-import me.dizzy.dizzyflipper.events.OnTooltip;
-import me.dizzy.dizzyflipper.events.OnTick;
-import me.dizzy.dizzyflipper.events.OnWorldJoin;
+import me.paperclip.paperclipflipper.utils.Utils;
+import me.paperclip.paperclipflipper.utils.ApiHandler;
+import me.paperclip.paperclipflipper.events.OnChatReceived;
+import me.paperclip.paperclipflipper.events.OnTooltip;
+import me.paperclip.paperclipflipper.events.OnTick;
+import me.paperclip.paperclipflipper.events.OnWorldJoin;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.command.ICommand;
 import net.minecraftforge.client.ClientCommandHandler;
@@ -27,9 +23,9 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import java.io.File;
 import java.util.List;
 import java.util.Date;
-import me.dizzy.dizzyflipper.objects.AverageItem;
+import me.paperclip.paperclipflipper.objects.AverageItem;
 import java.util.Map;
-import me.dizzy.dizzyflipper.commands.DizzyCommand;
+import me.paperclip.paperclipflipper.commands.DizzyCommand;
 import net.minecraftforge.fml.common.Mod;
 
 @Mod(modid = "paperclip", name = "paperclip", version = "v0.9.2.1")
