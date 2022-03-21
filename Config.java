@@ -73,4 +73,4 @@ public class Config extends Vigilant
         Config.bestSellingOverlay = true;
         Config.hideSpam = true;
     }
-}
+}//
