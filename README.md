@@ -7,4 +7,5 @@
 
 # Links
 - https://discord.gg/22XQdYPzV9
-- `my yt account got termed (it had no videos)`
+- https://www.youtube.com/channel/UC-kg8uoVQqNVl-lF9xLPLlA
+
